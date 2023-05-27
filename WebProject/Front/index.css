@@ -1,0 +1,179 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+main {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%px;
+    
+    background: linear-gradient(143.26deg, #92E1E2 0%, #84D0D6 0.01%, #0D4671 100%);    
+} 
+
+.shop-container {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+   
+}
+.shop-container  p {
+  
+    position: relative;
+    left: 500px;
+    top: 25px;
+    font-family: 'Anton', sans-serif;  
+    font-style: normal;
+    font-size: 45px;
+    line-height: 36px;
+    color: #ffffff;
+}
+
+.btn-order{
+    position: absolute;
+    width: 170px;
+    border-radius: 10px;
+    border-color: #0D4671;
+    height: 30px;
+    left: 85%;
+    top: 52px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400; 
+    line-height: 18px;
+    font-size: 16px;
+    background-color: transparent;
+    color: #ffffff;
+    line-height: 18px;
+    
+}
+
+.component-container1{
+    position: relative;
+    display: flex;
+    justify-content:space-around;
+    margin-top: 100px;
+   
+}
+
+.info{
+    font-family: 'Comfortaa';
+    position: relative;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    width: 97%;
+    color: #ffffff;
+    margin:30px;
+   line-height: 30px;
+}
+
+
+.component-container2{
+    position: relative;
+    display: flex;
+    column-gap: 50px;
+    left: 0;
+    margin-top: 150px;
+    padding-left: 70px;
+}
+
+
+
+.surfboard-info {
+
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 30px;
+    font-size: 23px;
+    color: #ffffff;
+    line-height: 30px;
+
+    width: 710px;
+    height: 108px;
+
+}
+
+.btn-buy{
+    top: 230px;
+    left: -750px;
+    width: 170px;
+    border-radius: 10px;
+    border-color: #0D4671;
+    height: 30px;
+    position: relative;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400; 
+    line-height: 18px;
+    font-size: 16px;
+    background-color: transparent;
+    color: #ffffff;
+    line-height: 18px;
+
+}
+.component-container2-img-end{
+    
+    position: relative;
+    top: 0;
+    left:300px;
+
+}
+
+.component-container3{
+    margin-top: 0;
+    display: flex;
+
+
+}
+
+.surfing-club-info{
+
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 30px;
+    font-size: 23px;
+    color: #ffffff;
+    line-height: 30px;
+    width: 710px;
+    
+    padding-left: 200px;
+    padding-top: 100px;
+   
+    position: relative;
+
+}
+
+.component-container3-img{
+    
+    padding-top: 30px;
+    
+    padding-right: 70px;
+    position: relative;
+    
+}
+
+
+.btn-join-us{
+  
+    width: 170px;
+    border-radius: 10px;
+    border-color: #0D4671;
+    height: 30px;
+    position: relative;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400; 
+    line-height: 18px;
+    font-size: 16px;
+    background-color: transparent;    
+    color: #ffffff;
+    line-height: 18px;
+    top:250px;
+    right:220px;
+
+}
